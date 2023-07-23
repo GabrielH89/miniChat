@@ -16,7 +16,7 @@ const AuthPage = (props) => {
         <form onSubmit={onSubmit} className="form-card">
           <div className="form-title">Welcome 👋</div>
   
-          <div className="form-subtitle">Set a username to get started</div>
+          <div className="form-subtitle">Inisira um nome para começar</div>
   
           <div className="auth">
             <div className="auth-label">Username</div>
