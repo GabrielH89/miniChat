@@ -21,7 +21,7 @@ O projeto em questão permite que o usuário entre com seu nome e crie o seu pr�
 Tenha o npm e o node Js instalados na sua máquina
 
 ## Instalação
-1. Execute o comando: git clone https://git@github.com:GabrielH89/miniChat.git
+1. Execute o comando: git clone git@github.com:GabrielH89/miniChat.git
 
 #### No diretório backend
 1. Estando no diretório backend, execute o comando $ npm install.
